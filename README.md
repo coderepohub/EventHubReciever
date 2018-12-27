@@ -8,3 +8,4 @@ This is a simple Azure Event Hub Listener, which will listen the meesage from al
 2.  Note down the Event Hub namespace connection string and keys 
 
 -Note : Add *WindowsAzure.ServiceBus* Nuget Package in the solution
+        Make sure to modify the connectionstrings from *App.config* file in the solution
